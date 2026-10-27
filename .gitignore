@@ -1,0 +1,38 @@
+
+# Python and virtual environments
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+env/
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Large datasets
+IBM Transaction Dataset/
+BAF NeurIPS Dataset/
+IBM/
+BAF/
+
+# Backups
+*.bak
+*.original.bak
+
+# Generated artifacts
+outputs/
+*.pt
+*.pth
+*.pkl
+*.joblib
+
+# Editor and OS
+.vscode/
+.DS_Store
+Thumbs.db
