@@ -1,4 +1,4 @@
-# Synthetic Identity Fraud Detection in Digital Lending
+# Network-Framework-for-Synthetic-Identity-Fraud-Detection-in-Financial-Systems
 
 A college research prototype organized as three separate fraud-analysis modules. The dashboard can review saved application-stage and graph-node records side by side, but the available artifacts do not establish that an applicant is the same entity as a graph node. For that reason, the dashboard does not calculate a combined risk score or make a lending decision.
 
